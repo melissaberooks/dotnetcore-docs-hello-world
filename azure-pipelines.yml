@@ -21,6 +21,6 @@ steps:
   inputs:
     azureSubscription: 'Pay-As-You-Go (b1365c37-b894-4831-853a-85bd9b469c09)'
     appType: 'webApp'
-    appName: 'dotnetsample-two'
+    appName: 'XYZCorp-netsampleapp'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
     deploymentMethod: 'auto'
